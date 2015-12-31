@@ -3,12 +3,14 @@
 </head>
 
 <body>
+  <main>
     {{#if currentUser}}
         {{> dashboard}}
     {{else}}
         {{> register}}
         {{> login}}
     {{/if}}
+    </main>
 </body>
 
 <template name="dashboard">

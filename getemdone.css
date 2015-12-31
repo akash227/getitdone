@@ -2,10 +2,8 @@
 body {
 	background-color: #f2f2f2;
 }
-.formm {
-	
-	margin-top: 50px;
-	margin-left: 500px;
-	width: 600px;
-	padding: 0;
+main {
+	width: 80%;
+	margin:0 auto;
 }
+
